@@ -4,6 +4,6 @@
 
 # Use jupyter notebook
 
-# Intialize variable and pass value  
+# Intialize variables  
 # Perfom arthmetic operation by using that variables 
-# Also find the type of variable 
+# Determine variable type 
